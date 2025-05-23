@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection System
 
-This project is an AI-based 🌱 **Plant Disease Detection System** developed during a 1-week internship at **Elevate Labs** by **Varun Varma M**. It leverages deep learning and computer vision to classify plant leaf diseases, aiding sustainable agriculture 🌾.
+This project is an AI-based 🌱 **Plant Disease Detection System** developed during a internship at **Elevate Labs** by **Varun Varma M**. It leverages deep learning and computer vision to classify plant leaf diseases, aiding sustainable agriculture 🌾.
 
 ## 📂 Project Overview
 
